@@ -1,0 +1,1 @@
+static-bn-for-wnt-signaling-pathway
